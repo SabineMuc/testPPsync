@@ -81,6 +81,7 @@
     </Publisher>
     <RootComponents>
       <RootComponent type="29" id="{a80a4cf4-2e41-ef11-a316-00224875295a}" behavior="0" />
+      <RootComponent type="300" schemaName="fd_checksecond_850b7" behavior="0" />
       <RootComponent type="300" schemaName="fd_testmefromscratch_786b2" behavior="0" />
     </RootComponents>
     <MissingDependencies />

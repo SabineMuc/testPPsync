@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Name>fd_testmefromscratch_786b2</Name>
-  <AppVersion>2024-07-13T18:23:06Z</AppVersion>
+  <Name>fd_checksecond_850b7</Name>
+  <AppVersion>2024-07-13T18:27:36Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.24071.7.0</CreatedByClientVersion>
   <MinClientVersion>3.24071.7.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24071.7","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false","sienaVersion":"20240713T175727Z-3.24071.7.0"}</Tags>
+  <Tags>{"primaryDeviceWidth":"1366","primaryDeviceHeight":"768","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Tablet","showStatusBar":"false","publisherVersion":"3.24071.7","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
-  <DisplayName>testmefromscratch</DisplayName>
-  <Description></Description>
-  <CommitMessage></CommitMessage>
-  <Publisher></Publisher>
+  <DisplayName>checkSecond</DisplayName>
+  <Description xsi:nil="true"></Description>
+  <CommitMessage xsi:nil="true"></CommitMessage>
+  <Publisher xsi:nil="true"></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
   <ConnectionReferences>{}</ConnectionReferences>
   <DatabaseReferences>{}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
-  <CanConsumeAppPass>1</CanConsumeAppPass>
+  <CanConsumeAppPass>0</CanConsumeAppPass>
   <CanvasAppType>0</CanvasAppType>
   <BypassConsent>0</BypassConsent>
   <AdminControlBypassConsent>0</AdminControlBypassConsent>
@@ -26,9 +26,9 @@
   <IntroducedVersion>1.0</IntroducedVersion>
   <CdsDependencies>{"cdsdependencies":[]}</CdsDependencies>
   <IsCustomizable>1</IsCustomizable>
-  <BackgroundImageUri>/CanvasApps/fd_testmefromscratch_786b2_BackgroundImageUri</BackgroundImageUri>
-  <DocumentUri>/CanvasApps/fd_testmefromscratch_786b2_DocumentUri.msapp</DocumentUri>
+  <BackgroundImageUri>/CanvasApps/fd_checksecond_850b7_BackgroundImageUri</BackgroundImageUri>
+  <DocumentUri>/CanvasApps/fd_checksecond_850b7_DocumentUri.msapp</DocumentUri>
   <AdditionalUris>
-    <AdditionalUri>/CanvasApps/fd_testmefromscratch_786b2_AdditionalUris0_identity.json</AdditionalUri>
+    <AdditionalUri>/CanvasApps/fd_checksecond_850b7_AdditionalUris0_identity.json</AdditionalUri>
   </AdditionalUris>
 </CanvasApp>
