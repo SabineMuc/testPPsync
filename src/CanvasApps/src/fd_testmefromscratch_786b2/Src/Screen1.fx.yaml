@@ -6,3 +6,14 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Rectangle1 As rectangle:
+        X: =376
+        Y: =416
+        ZIndex: =2
+
+    Button1 As button:
+        Text: ="Button"
+        X: =584
+        Y: =80
+        ZIndex: =3
+

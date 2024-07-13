@@ -117,7 +117,7 @@
     "Id": "cc468709-c96c-46d3-9f40-8c1880a486cf",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "testmefromscratch",
     "OriginatingVersion": "1.342",
     "ParserErrorCount": 0,
