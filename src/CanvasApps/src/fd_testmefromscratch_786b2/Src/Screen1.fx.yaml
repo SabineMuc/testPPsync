@@ -16,7 +16,7 @@ Screen1 As screen:
         ZIndex: =2
 
     Button1 As button:
-        Text: ="Button"
+        Text: ="anyone else"
         X: =584
         Y: =80
         ZIndex: =3
