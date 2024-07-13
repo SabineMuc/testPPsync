@@ -1,0 +1,9 @@
+{
+  "environmentvariablevalues": {
+    "environmentvariablevalue": {
+      "@environmentvariablevalueid": "f2564b9d-4241-ef11-a316-00224875295a",
+      "iscustomizable": "1",
+      "value": "envVarNewVal"
+    }
+  }
+}

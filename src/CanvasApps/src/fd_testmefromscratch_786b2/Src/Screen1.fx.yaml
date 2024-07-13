@@ -16,8 +16,14 @@ Screen1 As screen:
         ZIndex: =2
 
     Button1 As button:
-        Text: ="anyone else"
+        Text: ="Button"
         X: =584
         Y: =80
         ZIndex: =3
+
+    Label2 As label:
+        Text: ="ghkghk,gh,gh"
+        X: =272
+        Y: =248
+        ZIndex: =4
 
