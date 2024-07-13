@@ -34,10 +34,22 @@
           },
           "type": "Compose",
           "inputs": "sdfgfger - neeeee"
+        },
+        "Compose_2": {
+          "runAfter": {
+            "Compose": [
+              "Succeeded"
+            ]
+          },
+          "metadata": {
+            "operationMetadataId": "bdca72f7-6905-4fad-be77-01d097c38c24"
+          },
+          "type": "Compose",
+          "inputs": "something new"
         }
       }
     },
-    "templateName": null
+    "templateName": ""
   },
   "schemaVersion": "1.0.0.0"
 }

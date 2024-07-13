@@ -1,7 +1,11 @@
 Screen1 As screen:
 
     Label1 As label:
-        Text: ="checkmescratch - greet from git"
+        Height: =100
+        Text: |-
+            ="checkmescratch - greet from git
+            135463431345"
+        Width: =404
         X: =40
         Y: =40
         ZIndex: =1
